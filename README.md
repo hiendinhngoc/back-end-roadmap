@@ -1,4 +1,5 @@
 # back-end-roadmap
 The back-end knowledge follow the [roadmap](https://roadmap.sh/backend)
 
-I will try to cover all 21 big topics and plan to finish the roadmap at the end of the year.
+I will try to cover all 21 big topics and plan to finish the roadmap at the end of the year.  
+The better version can read [here](https://hiendinhngoc.memos.pub/back-end-roadmap)
