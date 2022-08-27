@@ -1,4 +1,4 @@
-# Concepts
+## Concepts
 - HTTP is a protocol and it is used to load web pages using hypertext links.
 - WWW is about communication between clients and servers.
 - Communication between client computers and web servers is done by sending HTTP requests and receiving HTTP Responses.
