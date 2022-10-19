@@ -12,6 +12,7 @@ It is the job of OS to manage all the running processes of the system. It handle
 
 #### Process Architecture
 Process architecture:
+
 ![image info](/images/process_architecture.webp)
 
 Here, is an Architecture diagram of the Process
@@ -27,6 +28,7 @@ PCB stands for Process Control Block. It is a data structure that is maintained 
 It is also accountable for storing the contents of processor registers. These are saved when the process moves from the running state and then returns back to it. The information is quickly updated in the PCB by the OS as soon as the process makes the state transition.
 
 ##### Process states
+
 ![image info](/images/process_architecture.webp)
 
 A process state is a condition of the process at a specific instant of time. It also defines the current position of the process.
@@ -47,6 +49,7 @@ After completing every step, all the resources are used by a process, and memory
 Every process is represented in the operating system by a process control block, which is also called a task control block.
 
 Here, are important components of PCB
+
 ![image info](/images/pcb.webp)
 
 - Process state: A process can be new, ready, running, waiting, etc.
@@ -56,3 +59,5 @@ Here, are important components of PCB
 - Accounting and business information: It includes the amount of CPU and time utilities like real time used, job or process numbers, etc.
 - Memory-management information: This information includes the value of the base and limit registers, the page, or segment tables. This depends on the memory system, which is used by the operating system.
 - I/O status information: This block includes a list of open files, the list of I/O devices that are allocated to the process, etc.
+
+*reference:* https://www.guru99.com/process-management-pcb.html 
