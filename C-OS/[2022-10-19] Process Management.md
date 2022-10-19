@@ -29,7 +29,7 @@ It is also accountable for storing the contents of processor registers. These ar
 
 ##### Process states
 
-![image info](/images/process_architecture.webp)
+![image info](/images/process_state.webp)
 
 A process state is a condition of the process at a specific instant of time. It also defines the current position of the process.
 
