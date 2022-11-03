@@ -36,3 +36,8 @@ Here, are the reasons for using the interprocess communication protocol for info
 - Privilege separation
 - Convenience
 - Helps operating system to communicate with each other and synchronize their actions.
+
+
+*References*
+https://www.guru99.com/inter-process-communication-ipc.html
+https://www.geeksforgeeks.org/inter-process-communication-ipc/
