@@ -80,3 +80,5 @@ Service provider networks allow customers to lease network capacity and function
 Conceptually, a cloud network can be seen as a WAN with its infrastructure delivered by a cloud-based service. Some or all of an organization’s network capabilities and resources are hosted in a public or private cloud platform and made available on demand. These network resources can include virtual routers, firewalls, bandwidth, and network management software,with other tools and functions available as required.
 
 Businesses today use cloud networks to accelerate time-to-market, increase scale, and manage costs effectively. The cloud network model has become the standard approach for building and delivering applications for modern enterprises.
+
+*Reference:* https://aws.amazon.com/what-is/computer-networking/
