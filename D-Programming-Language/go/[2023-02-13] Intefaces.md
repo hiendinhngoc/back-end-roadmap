@@ -1,4 +1,4 @@
-## Context
+## Concepts
 Interfaces define behavior, structs define data 
 
 ## Best practices
